@@ -26,7 +26,7 @@ int main() {
 	std::cout << "DFS traversal (preorder): ";
 	dfs(&root);
 	std::cout << '\n';
-	cout<<"Completed Graph Traversal";
+	std::cout<<"Completed Graph Traversal";
 
 	return 0;
 }
